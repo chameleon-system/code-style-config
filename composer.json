@@ -1,0 +1,15 @@
+{
+    "name": "chameleon-system/code-style-config",
+    "type": "library",
+    "description": "Central code style definition.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ESONO AG",
+            "email": "info@chameleonsystem.com",
+            "homepage": "https://www.chameleonsystem.com",
+            "role": "Company"
+        }
+    ],
+    "require": {}
+}
